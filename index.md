@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Crescendo With Cameron
 
-You can use the [editor on GitHub](https://github.com/CwCMusic/cwc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm happy to see you here. As you may know, I run Cultivating With Cameron as well as Crescendo With Cameron. Go subscribe to both of them now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now that your first task is complete, welcome to CwC, INC.
 
-### Markdown
+### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is where breaking news in the industry will be posted. Is it biased? Maybe...
 
 ```markdown
-Syntax highlighted code block
+Smooth NIP is creating a counter diss track on me, CwC. It won't harm my perfect reputation as he has nothing on me.
 
-# Header 1
-## Header 2
-### Header 3
+# Tasks:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Defeat Smooth NIP
+- Work with TKFB
+- 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### CWC WILL RULE
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CwCMusic/cwc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [Crescendo With Cameron](https://www.youtube.com/channel/UCzwh7qYbaZJZSSYHHrfhWZg) on YouTube.
